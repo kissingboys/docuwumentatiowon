@@ -5,7 +5,7 @@
   </a>
 </p>
 
-### [Plugin Documentation](/plugin-dev)
+### [Plugin DoCUMentation](/plugin-dev)
 [Plugin Installation](https://github.com/Aliucord/Aliucord/blob/main/README.md#-plugin-installation) -  [Request Plugin](https://github.com/Aliucord/plugin-requests/issues/new?template=plugin_request.yml)
-### [Theming Documentation](/theme-dev)
+### [Theming DoCUMentation](/theme-dev)
 [Theme Installation](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer)
